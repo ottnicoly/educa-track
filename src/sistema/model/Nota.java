@@ -14,4 +14,7 @@ public class Nota {
         return valor;
     }
 
+    public String getTipo() {
+        return tipo;
+    }
 }
