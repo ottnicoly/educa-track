@@ -14,6 +14,10 @@ public class Nota {
         return valor;
     }
 
+    public void setValor(double valor) {
+        this.valor = valor;
+    }
+
     public String getTipo() {
         return tipo;
     }
